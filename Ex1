@@ -1,0 +1,16 @@
+<!DOCUTYPE html>
+<html>
+  <head>
+      <meta charset="ulf-8">
+      <title></title>
+  </head>
+  <body>
+      <h1>JavaScr ipt</h1>
+      <scr ipt>
+        document.write('hello word')
+      </scr ipt>
+      <h1>
+          hello word
+      </h1>
+  </body>
+</htlm>
